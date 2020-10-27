@@ -85,7 +85,6 @@ Optional:
 
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <img src="http://g.recordit.co/mAsm0ixlQJ.gif" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
