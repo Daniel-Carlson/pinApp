@@ -1,7 +1,7 @@
 Original App Design Project - README Template
 ===
 
-# Pin It!
+# Pin It! test commit
 
 ## Table of Contents
 1. [Overview](#Overview)
